@@ -1,7 +1,7 @@
 ﻿<Window x:Class="WpfApplication_testGit.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow_GIT" Height="450" Width="625">
+        Title="MainWindow_GIT2" Height="450" Width="625">
     <Grid>
         
     </Grid>
