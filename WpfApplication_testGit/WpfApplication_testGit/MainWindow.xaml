@@ -4,5 +4,7 @@
         Title="MainWindow_GIT_Reset_MergedManually11" Height="450" Width="625">
     <Grid>
         <Button Margin="126,139,399.667,244.667" Content="Test" Cursor="AppStarting" ToolTip="test button"/>
+        <Button Content="Test2" Cursor="Hand" ToolTip="test2 button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="93" Margin="126,208,0,0" Height="35"/>
+        <Calendar HorizontalAlignment="Left" Height="150" Margin="126,263,0,0" VerticalAlignment="Top" Width="170"/>
     </Grid>
 </Window>
