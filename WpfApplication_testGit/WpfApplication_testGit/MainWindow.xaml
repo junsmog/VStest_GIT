@@ -3,6 +3,6 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow_GIT_Reset_MergedManually11" Height="450" Width="625">
     <Grid>
-        
+        <Button Margin="126,139,399.667,244.667" Content="Test" Cursor="AppStarting" ToolTip="test button"/>
     </Grid>
 </Window>
